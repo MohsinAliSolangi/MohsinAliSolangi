@@ -71,7 +71,7 @@
 [![Rabeeb's GitHub stats](https://github-readme-stats.vercel.app/api?username=MohsinAliS&show_icons=true&theme=tokyonight)](https://github.com/MohsinAliS/github-readme-stats)
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MohsinAliS&show_icons=true&theme=tokyonight&layout=compact&hide=javascript)](https://github.com/MohsinAliS/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hassanawi&show_icons=true&theme=tokyonight&layout=compact&hide=javascript)](https://github.com/Hassanawi/github-readme-stats)
 <!-- </details> -->
 
 
