@@ -1,4 +1,4 @@
-### Hey there, I'm Mohsin Ali <img src="https://media.giphy.com/media/h8NnG7uDobXO576L0G/giphy.gif" width="60" height="60" />
+### Hey there, I'm Mohsin Ali Solangi <img src="https://media.giphy.com/media/h8NnG7uDobXO576L0G/giphy.gif" width="60" height="60" />
 
 <p align="center">
 <br><img src="https://github.com/chiraag-kakar/chiraag-kakar/blob/master/hadder.gif" width="280px"><br><br>
