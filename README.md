@@ -3,7 +3,7 @@
 <h1 align="center">Mohsin Ali Solangi</h1>
 
 <h3 align="center">
-Blockchain Engineer & Full-Stack Web3 Developer&nbsp;|&nbsp;3+ Years&nbsp;|&nbsp;72 Projects Delivered&nbsp;|&nbsp;$1M+ Raised for Clients
+Blockchain Engineer & Full Stack Web3 Developer&nbsp;|&nbsp;3+ Years&nbsp;|&nbsp;72 Projects Delivered&nbsp;|&nbsp;$1M+ Raised for Clients
 </h3>
 
 <p align="center">
@@ -29,14 +29,14 @@ Blockchain Engineer & Full-Stack Web3 Developer&nbsp;|&nbsp;3+ Years&nbsp;|&nbsp
 
 ## 👨‍💻 About Me
 
-I am a **Blockchain Engineer** and **Full-Stack Web3 Developer** based in Karachi, Pakistan, with **3+ years of professional experience** delivering end-to-end decentralized systems. I have shipped **72 blockchain projects** and helped clients raise over **$1,000,000** through ICO, IDO, and multi-round presale campaigns.
+I am a **Blockchain Engineer** and **Full-Stack Web3 Developer** based in Karachi, Pakistan, with **3+ years of professional experience** delivering end-to-end decentralized systems. I have shipped **72 blockchain projects** and helped clients raise over **$1,000,000** through ICO, IDO, and multi round presale campaigns.
 
-- 🔗 Expert in **Solidity** and **Rust** smart contract development on **Ethereum**, **Solana**, and EVM-compatible chains
+- 🔗 Expert in **Solidity** and **Rust** smart contract development on **Ethereum**, **Solana**, and EVM compatible chains
 - 🏦 Built production **DeFi protocols** — DEX, staking, liquidity pools, yield farming, token vesting, and airdrop contracts
-- 🚀 Architected full **ICO / IDO / Presale platforms** with multi-round sale mechanics, USDT/ETH/fiat payment rails
-- 🖼️ Engineered **NFT Marketplace** platforms — Mint, Buy, Sell, Bid — ERC-721, ERC-1155, BEP-20, SPL on Solana
+- 🚀 Architected full **ICO / IDO / Presale platforms** with multi round sale mechanics, USDT/ETH/fiat payment rails
+- 🖼️ Engineered **NFT Marketplace** platforms — Mint, Buy, Sell, Bid — ERC721, ERC1155, BEP20, SPL on Solana
 - 🔒 Practiced in **smart contract security auditing** using Slither and MythX; zero security incidents across all deployments
-- 🌉 Implemented **multi-chain payment gateways** across Ethereum and Solana processing 1,000+ live transactions
+- 🌉 Implemented **multi chain payment gateways** across Ethereum and Solana processing 1,000+ live transactions
 - 🏛️ Pursuing **M.S. in Information Security** at NED University of Engineering and Technology, Karachi
 
 > *"I've delivered 72 blockchain projects — from DEXs and ICO platforms to NFT marketplaces and custodial wallets — with a track record of zero security incidents and on-time delivery."*
@@ -49,7 +49,7 @@ I am a **Blockchain Engineer** and **Full-Stack Web3 Developer** based in Karach
 |--------|-------------|
 | 🗂️ Projects Delivered | **72 blockchain projects** across DeFi, NFT, ICO, DEX |
 | 💰 Client Fundraising | **$1,000,000+** raised via ICO, IDO & presale contracts |
-| 🔁 Transactions Processed | **1,000+** live cross-chain transactions |
+| 🔁 Transactions Processed | **1,000+** live cross chain transactions |
 | 🖼️ NFT Mints Facilitated | **5,000+** NFT mints across multiple platforms |
 | 👥 Wallet Users Supported | **500+** concurrent wallet users on a single DEX |
 | ⛽ Gas Optimization | **20% reduction** in smart contract gas costs |
@@ -118,31 +118,33 @@ I am a **Blockchain Engineer** and **Full-Stack Web3 Developer** based in Karach
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=MohsinAliSolangi&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&title_color=9945FF&icon_color=9945FF" alt="Mohsin Ali Solangi GitHub Stats Blockchain Engineer"/>
-  <img width="48%" src="https://streak-stats.demolab.com/?user=MohsinAliSolangi&theme=tokyonight&hide_border=true&ring=9945FF&fire=E2761B&currStreakLabel=9945FF" alt="Mohsin Ali Solangi GitHub Streak"/>
+  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=MohsinAliSolangi&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&include_all_commits=true&rank_icon=github&title_color=9945FF&icon_color=9945FF" 
+    alt="Mohsin Ali Solangi GitHub Stats - Blockchain Engineer Solidity Developer"/>
+  <img width="49%" src="https://streak-stats.demolab.com/?user=MohsinAliSolangi&theme=tokyonight&hide_border=true&ring=9945FF&fire=E2761B&currStreakLabel=9945FF"
+    alt="Mohsin Ali Solangi GitHub Streak Stats"/>
 </p>
 
 <p align="center">
-  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohsinAliSolangi&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&title_color=9945FF" alt="Top Languages Solidity Rust Blockchain Developer"/>
+  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MohsinAliSolangi&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&title_color=9945FF&hide=html,css"
+    alt="Top Languages - Solidity Rust JavaScript Blockchain Developer"/>
+  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=MohsinAliSolangi&theme=tokyo-night&hide_border=true&color=9945FF&line=9945FF&point=E2761B"
+    alt="Mohsin Ali Solangi GitHub Activity Graph"/>
 </p>
 
 ---
 
 ## 🏆 GitHub Trophies
-
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MohsinAliSolangi&theme=tokyonight&no-frame=true&column=7&margin-w=10" alt="GitHub Trophies Mohsin Ali Solangi"/>
+  <img src="https://github-profile-trophy-zeta.vercel.app/?username=MohsinAliSolangi&theme=tokyonight&no-frame=true&column=4&row=2&margin-w=15&margin-h=15" alt="Mohsin Ali Solangi GitHub Trophies" />
 </p>
 
 ---
 
 ## 🎓 Education & Certifications
 
-- 🎓 **M.S. Information Security** — NED University of Engineering & Technology, Karachi *(2022–2025)*
-- 🎓 **B.S. Information Technology** — Benazir Bhutto Shaheed University Lyari *(2018–2022)*
-- 📜 **Blockchain Engineer Program** — Alchemy University *(2022)*
-- 📜 **Ethereum Blockchain Developer Bootcamp with Solidity** — Udemy *(2022)*
-- 📜 **JavaScript Algorithms & Data Structures** — freeCodeCamp *(2023)*
+- 📜 **Blockchain Engineer Program** | Alchemy University *(2022)*
+- 📜 **Ethereum Blockchain Developer Bootcamp with Solidity** | Udemy *(2022)*
+- 📜 **JavaScript Algorithms & Data Structures** | freeCodeCamp *(2023)*
 
 ---
 
